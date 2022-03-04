@@ -22,19 +22,19 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/rrugerdev" target="blank"><img src="https://img.shields.io/twitter/follow/rrugerdev?logo=twitter&style=for-the-badge" alt="rrugerdev" /></a> </p>
 
-- 🔭 I’m currently working on [Designable](www.designable.es)
+- 🔭 I’m currently working on [Designable](https://www.designable.es)
 
 - 🌱 I’m currently learning **DDD and microservices**
 
-- 👨‍💻 All of my info is available at [rruger.dev](rruger.dev)
+- 👨‍💻 All of my info is available at [rruger.dev](https://rruger.dev)
 
-- 📝 I regularly write articles on [rruger.dev/blog](rruger.dev/blog)
+- 📝 I regularly write articles on [rruger.dev/blog](https://rruger.dev/blog)
 
 - 💬 Ask me about **React, Typescript, Node, PHP, SOLID, Hexagonal, Clean Code etc**
 
 - 📫 How to reach me **contact@rruger.dev**
 
-- 📄 Know about my experiences [rruger.dev/about](rruger.dev/about)
+- 📄 Know about my experiences [rruger.dev/about](https://rruger.dev/about)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
