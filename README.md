@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/rrugerdev" target="blank"><img src="https://img.shields.io/twitter/follow/rrugerdev?logo=twitter&style=for-the-badge" alt="rrugerdev" /></a> </p>
 
-- 🔭 I’m currently working on [Designable](https://www.designable.es)
-
 - 🌱 I’m currently learning **DDD and microservices**
 
 - 👨‍💻 All of my info is available at [rruger.dev](https://rruger.dev)
