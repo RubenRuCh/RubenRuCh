@@ -18,15 +18,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubenruch&label=Profile%20views&color=0e75b6&style=flat" alt="rubenruch" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rubenruch" alt="rubenruch" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/rrugerdev" target="blank"><img src="https://img.shields.io/twitter/follow/rrugerdev?logo=twitter&style=for-the-badge" alt="rrugerdev" /></a> </p>
-
 - 🌱 I’m currently learning **DDD and microservices**
 
 - 👨‍💻 All of my info is available at [rruger.dev](https://rruger.dev)
 
-- 📝 I regularly write articles on [rruger.dev/blog](https://rruger.dev/blog)
+- 📝 I sometimes write articles on [rruger.dev/blog](https://rruger.dev/blog)
 
 - 💬 Ask me about **React, Typescript, Node, PHP, SOLID, Hexagonal, Clean Code etc**
 
